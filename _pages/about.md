@@ -22,6 +22,7 @@ redirect_from:
 Hi! My name is Ao Xiang(Axton). I am a computer enthusiast, with a primary focus on computer graphics.
 
 
+
 Feel free to reach out!
 
 <div class="highlight-blocks">
@@ -53,10 +54,8 @@ Feel free to reach out!
   </div>
 </div>
 
-# 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). See you in Philadelphia!
-- *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
-- *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
+# 🔥 News、
+- *2024.04*: &nbsp;I participated in China3DV, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
 
 <!-- # 📝 Publications 
 
@@ -78,9 +77,9 @@ Feel free to reach out!
 - *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
-# 📖 Educations
-- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
+<!-- # 📖 Educations
+- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University. -->
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
