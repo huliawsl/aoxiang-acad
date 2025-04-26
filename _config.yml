@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ao Xiang"
+title                    : "Xiang Ao"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Ao Xiang"
+name                     : "Xiang Ao"
 description              : "Personal Website"
 url                     : "https://jxtse.github.io"
 baseurl                 : ""
@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ao Xiang(Axton)"
+  name             : "Xiang (Axton) Ao"
   avatar           : "images/android-chrome-512x512.jpg"
   bio              : 
   location         : "Beijing, China"
@@ -74,14 +74,13 @@ t:
     home: "Home"
     about: "About Me"
     news: "News"
-    publications: "Publications"
+    # publications: "Publications"
     educations: "Educations"
-    internships: "Internships"
-    blogs: "Blogs"
+    # internships: "Internships"
   # zh:
   #   home: "首页"
-  #   about: "关于"
-  #   publications: "发表论文"
+  #   about: "关于我"
+  #   publications: "出版物"
   #   projects: "项目"
   #   contact: "联系方式"
 

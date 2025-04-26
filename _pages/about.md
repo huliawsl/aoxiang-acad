@@ -19,43 +19,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Ao Xiang(Axton). I am a computer enthusiast, with a primary focus on computer graphics.
+Hi there. I'am Xiang(Axton) Ao(敖翔). I am an enthusiast of computer graphics. Since my first encounter with the fascinating concepts of graphics in junior high school, I have firmly regarded it as the direction for my lifelong efforts. 
 
+At this stage, my research interests mainly focus on the field of 3D generation and stylization.
 
+As an interdisciplinary field of science and art, the exquisite integration of science and art has always been the core of my interest. Currently, I am committed to exploring the integration of deep learning with various aspects of graphics, while closely monitoring the research on the adaptability of graphics technology in the film and television production pipeline.
 
-Feel free to reach out!
 
 <div class="highlight-blocks">
   <div class="highlight-block">
-    <h3>🔬 AI Researcher</h3>
+    <h3>🔬 Graphics Enthusiast</h3>
     <ul>
-      <li>Research focus on LLMs and NLP</li>
-      <li>Multiple internships at top institutions</li>
-      <li>Publication at AAAI, ACL</li>
+      <li>Research interests focus on 3D Generation and Stylization.</li>
+      <li>Mentored by <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.</li>
     </ul>
   </div>
   
   <div class="highlight-block">
-    <h3>✍️ Content Creator</h3>
+    <h3>🎨 Artistic Creator</h3>
     <ul>
-      <li>Technical blogs with 500K+ views</li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e">Xiaohongshu</a></li>
-      <li>Growing <a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ">WeChat Public Account</a> on Tech & Humanities</li>
+      <li>I enjoy 3D design, creating with Blender</li>
+      <li>I have an <a href="https://www.artstation.com/user-8852939">ArtStation account</a>.</li>
     </ul>
   </div>
   
-  <div class="highlight-block">
+  <!-- <div class="highlight-block">
     <h3>🌎 Life Explorer</h3>
     <ul>
       <li>Visited 7 countries worldwide</li>
       <li>Traveled to 32 provinces in China</li>
       <li>Rich experience in social work & activities</li>
     </ul>
-  </div>
+  </div> -->
 </div>
 
-# 🔥 News、
-- *2024.04*: &nbsp;I participated in China3DV, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
+# 🔥 News
+- *2024.04*: &nbsp;I participated in <a href="http://china3dv.csig.org.cn/2025/">China3DV2025</a>, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
 
 <!-- # 📝 Publications 
 
@@ -77,8 +76,9 @@ Feel free to reach out!
 - *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
-<!-- # 📖 Educations
-- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University. -->
+# 📖 Educations
+- *I am currently completing my high school education and will enter undergraduate studies in the fall of 2026.*
+<!-- - *2026.09 - ？？*: &nbsp;(Expected) hhhh, GKD University. -->
 
 
 <!-- # 💬 Invited Talks
