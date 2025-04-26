@@ -54,11 +54,7 @@ As an interdisciplinary field of science and art, the exquisite integration of s
 </div>
 
 # 🔥 News
-<<<<<<< HEAD
 - *2024.04*: &nbsp;I participated in <a href="http://china3dv.csig.org.cn/2025/">China3DV2025</a>, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
-=======
-- *2024.04*: &nbsp;I participated in China3DV, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
->>>>>>> origin/main
 
 <!-- # 📝 Publications 
 
