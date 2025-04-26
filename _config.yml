@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Ao Xiang"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
+name                     : "Ao Xiang"
 description              : "Personal Website"
 url                     : "https://jxtse.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
+repository               : "huli/aoxiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,14 +27,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
-  avatar           : "images/android-chrome-512x512.jpg"
+  name             : "Ao Xiang(Axton)"
+  avatar           : #"images/android-chrome-512x512.jpg"
   bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jxTse@outlook.com"
+  email            : "huliawsl@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
