@@ -5,6 +5,7 @@
     {% for s in page.sidebar %}
       {% if s.image %}
         <img src= "{{ s.image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        <a href="images/news/China3DV2025.png">as a volunteer</a>.
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
