@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Ao"
+title                    : "Xiang (Axton) Ao"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Xiang Ao"
+name                     : "Xiang (Axton) Ao"
 description              : "Personal Website"
 url                     : "https://aoxiang.huliawsl.top"
 baseurl                 : ""
